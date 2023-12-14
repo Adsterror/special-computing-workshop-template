@@ -45,7 +45,10 @@ public class Task3 {
   }
 
   public static void main(String[] args) throws IOException {
-    FileWriter writer = new FileWriter("answer.txt", false);
-    walk("..//", writer, 0);
+    if (args.length != 2) {
+      throw new IndexOutOfBoundsException("Number of arguments must be equal to 2!\n");
+    }
+    FileWriter writer = new FileWriter(args[1], false);
+    walk(args[0], writer, 0);
   }
 }
