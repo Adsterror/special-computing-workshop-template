@@ -28,8 +28,8 @@ class Task3Test {
   @Test
   void testNormalInput() throws IOException {
     String[] args = new String[2];
-    args[0] = "D:\\SPBU\\Git-School-Projects\\special-computing-workshop-template\\src";
-    args[1] = "D:\\SPBU\\Git-School-Projects\\special-computing-workshop-template\\src\\answer.txt";
+    args[0] = "src/test/resources/Task3/Task3TestDirectory";
+    args[1] = "src/test/resources/Task3/answer.txt";
     FileWriter writer = new FileWriter(args[1], false);
     boolean isEmpty = true;
     try {

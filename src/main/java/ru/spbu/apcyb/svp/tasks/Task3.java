@@ -44,6 +44,11 @@ public class Task3 {
     }
   }
 
+  /**
+   * main.
+   *
+   * @param args - first argument - path to directory, second - path to file
+   */
   public static void main(String[] args) throws IOException {
     if (args.length != 2) {
       throw new IndexOutOfBoundsException("Number of arguments must be equal to 2!\n");
