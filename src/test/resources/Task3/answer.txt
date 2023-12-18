@@ -1,10 +1,1 @@
-Directory: src\test\resources\Task3\Task3TestDirectory\a
- Directory: D:\SPBU\Git-School-Projects\special-computing-workshop-template\src\test\resources\Task3\Task3TestDirectory\a\a1
-  Directory: D:\SPBU\Git-School-Projects\special-computing-workshop-template\src\test\resources\Task3\Task3TestDirectory\a\a1\a1_1
-   File: D:\SPBU\Git-School-Projects\special-computing-workshop-template\src\test\resources\Task3\Task3TestDirectory\a\a1\a1_1\a1_1.txt
-  Directory: D:\SPBU\Git-School-Projects\special-computing-workshop-template\src\test\resources\Task3\Task3TestDirectory\a\a1\a1_2
- Directory: D:\SPBU\Git-School-Projects\special-computing-workshop-template\src\test\resources\Task3\Task3TestDirectory\a\a2
- Directory: D:\SPBU\Git-School-Projects\special-computing-workshop-template\src\test\resources\Task3\Task3TestDirectory\a\a3
- Directory: D:\SPBU\Git-School-Projects\special-computing-workshop-template\src\test\resources\Task3\Task3TestDirectory\a\a4
-Directory: src\test\resources\Task3\Task3TestDirectory\b
- Directory: 
+
